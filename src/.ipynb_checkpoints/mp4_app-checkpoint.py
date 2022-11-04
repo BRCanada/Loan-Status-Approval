@@ -1,5 +1,5 @@
 # import Flask and jsonify
-from flask import Flask, jsonify
+from flask import Flask, jsonify, request
 
 # import Resource, Api and reqparser
 from flask_restful import Resource, Api, reqparse
